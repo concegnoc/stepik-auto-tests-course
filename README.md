@@ -1,2 +1,2 @@
 # stepik-auto-tests-course
-Hi
+this repository for stepik course
