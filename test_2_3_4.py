@@ -7,7 +7,6 @@ def calc(x):
 
 try:
     link = "http://suninjuly.github.io/alert_accept.html"
-
     browser = webdriver.Chrome()
     browser.get(link)
 
